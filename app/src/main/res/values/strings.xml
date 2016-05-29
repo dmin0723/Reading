@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Reading</string>
+
+    <string name="text_debug_data">调试数据</string>
 </resources>
